@@ -12,6 +12,8 @@ We see uses of the tool for two purposes:
 1. As researchers we want to learn: Why basin partners choose assumptions and how extreme; *Why* and *how* basin partners manage their risk of uncertain future water supply; Which new insights they take from a model session. 
 1. Provoke thought and discussion to: A) Stabilize and recover reservoir storage under conditions of extreme low storage and inflow, and B) Give users more autonomy to manage their conflicting vulnerabilities to water shortages.										
 
+We focus on scenarios of extreme low flow and low reservoir storage.
+
 ## Key Ideas
 **1) Lake Mead water level is the sum of the protection elevation plus each user's available water.**
 <img src="https://github.com/dzeke/ColoradoRiverCollaborate/blob/main/LakeMeadWaterBankDivideInflow/ModelGuide/media/LakeMeadStorageFromAvailableWater.png" width=50% height=50%>
