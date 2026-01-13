@@ -1,9 +1,9 @@
 # Immersive Model for Lake Mead Based on the Principle of Division of Reservoir Inflow
 
-### [Lets Start (visual directions)](https://github.com/dzeke/ColoradoRiverCollaborate/blob/main/LakeMeadWaterBankDivideInflow/ImmersiveModelLakeMeadDivideInflow-LetsStart.pdf) (pdf file)
-### [Model Guide](https://github.com/dzeke/ColoradoRiverCollaborate/blob/main/LakeMeadWaterBankDivideInflow/ModelGuide/ModelGuide-LakeMeadWaterBank.md) (Help file)
-### [Model File](https://github.com/dzeke/ColoradoRiverCollaborate/raw/refs/heads/main/LakeMeadWaterBankDivideInflow/LakeMeadWaterBankDivideInflow.xlsx) (Excel)
-### [Draft Manuscript](https://github.com/dzeke/ColoradoRiverCollaborate/raw/refs/heads/main/LakeMeadWaterBankDivideInflow/LakeMeadWaterConservationProgramAnalysis.docx) (Microsoft WORD)
+### [Lets Start (visual directions)](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/DavidEdits/ImmersiveModelLakeMeadDivideInflow-LetsStart.pdf) (pdf file)
+### [Model Guide](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/DavidEdits/ModelGuide/ModelGuide-LakeMeadWaterBank.md) (Help file)
+### [Model File](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/raw/refs/heads/main/LakeMeadWaterBankDivideInflow.xlsx) (Excel)
+### [Draft Manuscript](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/raw/refs/heads/DavidEdits/LakeMeadWaterConservationProgramAnalysis.docx) (Microsoft WORD)
 
 ## Purpose														
 The purpose of this immersive online collaborative model is to give collaborators the opportunity to immerse in and personify water user roles for a Lake Mead model based on the principle of division of reservoir inflow.  The model works on the principles of **A) Divide reservoir inflow**, **B. Subtract evaporation**, and **C) Users consume and conserve within their available water**, others choices, and real-time discussion of choices.
