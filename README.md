@@ -16,13 +16,13 @@ We focus on scenarios of extreme low flow and low reservoir storage.
 
 ## Key Ideas
 **1) Lake Mead water level is the sum of the protection elevation plus each user's available water.**
-<img src="https://github.com/dzeke/ColoradoRiverCollaborate/blob/main/LakeMeadWaterBankDivideInflow/ModelGuide/media/LakeMeadStorageFromAvailableWater.png" width=50% height=50%>
+<img src="https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/main/LakeMeadWaterBankDivideInflow/ModelGuide/media/LakeMeadStorageFromAvailableWater.png" width=50% height=50%>
 
 **2) Each user manages all their available water not just prior conserved water.**
-<img src="https://github.com/dzeke/ColoradoRiverCollaborate/blob/main/LakeMeadWaterBankDivideInflow/ModelGuide/media/b067b34f64dc5f62cef840cc605c1345.png" width=75%>
+<img src="https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/ModelGuide/media/b067b34f64dc5f62cef840cc605c1345.png" width=75%>
 
 **3) Tribal Nations of the Lower Basin manage their own settled water rights.**
-<img src="https://github.com/dzeke/ColoradoRiverCollaborate/blob/main/LakeMeadWaterBankDivideInflow/ModelGuide/media/TribalNationsFigureNoBorder.png" width=50%>
+<img src="https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/ModelGuide/media/TribalNationsFigureNoBorder.png" width=50%>
 
 
 To use, download the [Excel Model File](https://github.com/dzeke/ColoradoRiverCollaborate/raw/refs/heads/main/LakeMeadWaterBankDivideInflow/LakeMeadWaterBankDivideInflow.xlsx), 
