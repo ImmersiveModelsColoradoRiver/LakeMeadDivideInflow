@@ -25,7 +25,7 @@ We focus on scenarios of extreme low flow and low reservoir storage.
 <img src="https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/main/ModelGuide/media/TribalNationsFigureNoBorder.png" width=50%>
 
 
-To use, download the [Excel Model File](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/raw/refs/heads/main/LakeMeadWaterBankDivideInflow/LakeMeadWaterBankDivideInflow.xlsx), 
+To use, download the [Excel Model File](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/raw/refs/heads/main/LakeMeadWaterBankDivideInflow.xlsx), 
 move to Google Sheets, and invite participants. There are accounts for Reclamation (Protect Zone), California, Arizona, Nevada, Mexico, and Tribal Nations in the Lower Basin.
 Over one or more years, participants consume, save, and trade water in the accounts. Read on for directions to use.
 
