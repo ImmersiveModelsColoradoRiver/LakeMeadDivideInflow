@@ -41,7 +41,7 @@ Over one or more years, participants consume, save, and trade water in the accou
 ## Directions to Guide a Model Session
 
 **Setup**
-1. Download the file **[LakeMeadWaterBankDivideInflow.xlsx](https://github.com/dzeke/ColoradoRiverCollaborate/raw/refs/heads/main/LakeMeadWaterBankDivideInflow/LakeMeadWaterBankDivideInflow.xlsx)** to your computer.
+1. Download the file **[LakeMeadWaterBankDivideInflow.xlsx](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/raw/refs/heads/main/LakeMeadWaterBankDivideInflow.xlsx)** to your computer.
 1. Move the Excel file to your Google Drive. Open as a Google Sheet.
 1. Open the **Versions** Worksheet to see updates.
 1. Duplicate the **Master** Worksheet to work on in this session and save a blank version for later use. 
@@ -69,13 +69,13 @@ Over one or more years, participants consume, save, and trade water in the accou
 1. Wang, J., Rosenberg, D. E., Schmidt, J. C., and Wheeler, K. G. (2020). "Managing the Colorado River for an Uncertain Future." Center for Colorado River Studies, Utah State University, Logan, Utah. https://digitalcommons.usu.edu/cee_facpub/3768/
 
 ## Requested Citation (permanent link)
-David E. Rosenberg, Hadia Akbar, Anabelle Myers, Erik Porse (2025). "Lake Mead Water Bank based on the Principle of Divide Reservoir Inflow." Utah State University, Logan, UT. https://github.com/dzeke/ColoradoRiverCollaborate/tree/main/LakeMeadWaterBankDivideInflow.
+David E. Rosenberg, Hadia Akbar, Anabelle Myers, Erik Porse (2025). "Immersive Model for Lake Mead based on the Principle of Divide Reservoir Inflow." Utah State University, Logan, UT. http://www.hydroshare.org/resource/48c2fd02e3ff44a486b45f59171cb229.
 
 ## File Descriptions
-1. **[LakeMeadWaterBankDivideInflow.xlsx](https://github.com/dzeke/ColoradoRiverCollaborate/raw/refs/heads/main/LakeMeadWaterBankDivideInflow/LakeMeadWaterBankDivideInflow.xlsx)** - An Excel file with the Lake Mead Water Bank tool. Follow **Facillation Directions** (above) or open **ReadMe-Directions** Worksheet.
-1. **[ImmersiveModelLakeMeadDivideInflow-LetsStart.pdf](https://github.com/dzeke/ColoradoRiverCollaborate/blob/main/LakeMeadWaterBankDivideInflow/ImmersiveModelLakeMeadDivideInflow-LetsStart.pdf)** - A PDF file that shows how to start the activity (visual directions).
-1. **[Model Guide](https://github.com/dzeke/ColoradoRiverCollaborate/blob/main/LakeMeadWaterBankDivideInflow/ModelGuide/ModelGuide-LakeMeadWaterBank.md)** folder - Online help file that provides context and explanations for each spreadsheet row. In **Master** Worksheet, link to help in `Column N`.
-1. **[Draft Manuscript](https://github.com/dzeke/ColoradoRiverCollaborate/blob/main/LakeMeadWaterBankDivideInflow/LakeMeadWaterConservationProgramAnalysis.docx)** - Draft manuscript for the immersive model in Word format.
+1. **[LakeMeadWaterBankDivideInflow.xlsx](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/raw/refs/heads/main/LakeMeadWaterBankDivideInflow.xlsx)** - An Excel file with the Lake Mead Water Bank tool. Follow **Facillation Directions** (above) or open **ReadMe-Directions** Worksheet.
+1. **[ImmersiveModelLakeMeadDivideInflow-LetsStart.pdf](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/DavidEdits/ImmersiveModelLakeMeadDivideInflow-LetsStart.pdf)** - A PDF file that shows how to start the activity (visual directions).
+1. **[Model Guide](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/DavidEdits/ModelGuide/ModelGuide-LakeMeadWaterBank.md)** folder - Online help file that provides context and explanations for each spreadsheet row. In **Master** Worksheet, link to help in `Column N`.
+1. **[Draft Manuscript](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/raw/refs/heads/DavidEdits/LakeMeadWaterConservationProgramAnalysis.docx)** - Draft manuscript for the immersive model in Word format.
 1. **IRB** folder: Folder with approved Institutional Review Board documents - protocol, informed consent 1/2 page post it board, invite letters.
 1. **ModelGuide** folder: Folder with Word, pdf, and markdown versions of the model User's Guide.
 1. **Support-Old** folder: Older folders not presently used for this model.
@@ -85,7 +85,7 @@ David E. Rosenberg, Hadia Akbar, Anabelle Myers, Erik Porse (2025). "Lake Mead W
    1. **ParticipantChoosePowellNaturalFlow** - Files to produce the plot in the manuscript that shows how participants choose Lake Powell natural inflow.
 
 ## License
-BSD-3-Clause (https://github.com/dzeke/ColoradoRiverCoding/blob/main/LICENSE). Available to use, modify, distribute, etc. for free.
+BSD-3-Clause (https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/main/LICENSE). Available to use, modify, distribute, etc. for free.
 All modified or derivative products must use the same BSD-3-Clause license. This license keeps this work in the public domain forever.
 
 ## Contact Information
