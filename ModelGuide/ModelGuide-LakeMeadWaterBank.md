@@ -10,7 +10,7 @@ Utah State University
 
 <http://rosenberg.usu.edu>
 
-August 4, 2025
+April 16, 2026
 
 # I**ntroduction**
 
@@ -19,7 +19,9 @@ personify water user roles for a Lake Mead model based on the principle of
 divide reservoir inflow. The process is: **A) Divide reservoir inflow**, **B)
 Subtract evaporation**, and **C) Users withdraw and conserve within their
 available water**, others choices, and real-time discussion of choices. We see
-uses of the tool for two purposes:
+uses of the tool for three purposes:
+
+- To improve NOAA tools to communicate and manage risks of water shortages.
 
 -   As researchers we want to learn *Why* basin partners choose assumptions and
     *how* extreme; *Why* and *how* basin partners articulate their risk of
@@ -36,19 +38,23 @@ uses of the tool for two purposes:
 
 # Key Model Ideas
 
-1.  **Lake Mead water level is the sum of the protection elevation plus each
+1. There is borad agreement that Colorado River flows will be more volative, declining, and have longer-lasting periods of flow.
+
+    ![VolitileFlows](media/VolitileFlows.png)
+
+2.  **Lake Mead water level is the sum of the protection elevation plus each
     user’s available water.**
 
     ![A diagram of water evaporation Description automatically
     generated](media/4890d2b6825df736576fb0d97b5371f3.png)
 
-2.  **Each user manages all their available water not just prior conserved
+3.  **Each user manages all their available water not just prior conserved
     water.**
 
 ![A white background with black text Description automatically
 generated](media/5d5e1f07842cc149e1993f61d5e69a12.png)
 
-1.  **Tribal Nations of the Lower Basin manage their own settled water rights**
+4.  **Tribal Nations of the Lower Basin manage their own settled water rights**
 
 ![A pie chart with numbers and a number of states AI-generated content may be
 incorrect.](media/76d65ebe7158969bcef62dd8bcad94ca.png)
@@ -274,19 +280,17 @@ Tables 1d and 1e and the associated calculations are also shown in the
 
 # Step 2. Specify Lake Mead Inflow
 
-Each Lake Mead inflow for the year will be specified by the person guiding the
-model session at the beginning of each timestep (Table 2a). These choices will
-ensure an accurate representation of uncertainty, unreliability, and variability
-in flow for Colorado River Basin management. Because Lake Mead inflow is
-uncertain—and likely differing from historical inflows because of aridity—we can
-only specify inflow as a scenario (Rosenberg, 2022). We are particularly
-interested in scenarios of extreme low inflow to Lake Mead because if we can
-manage for extreme conditions, then we can also manage for less extreme
-conditions.
+Each Lake Mead inflow for the year will be specified by the person guiding the model session at the beginning of each timestep (Figure 2a and Table 2a). These choices will ensure an accurate representation of uncertainty, unreliability, and variability in flow for Colorado River Basin management. Because Lake Mead inflow is uncertain—and likely differing from historical inflows because of aridity—we can only specify inflow as a scenario (Rosenberg, 2022). We are particularly interested in scenarios of extreme low inflow to Lake Mead because if we can manage for extreme conditions, then we can also manage for less extreme conditions.
 
-**Table 2a. Scenarios of Lake Mea**![A white sheet with black text AI-generated
-content may be incorrect.](media/e4fc71eb5784605c5cf05b65ac1df925.png)**d
-Inflow**
+![VolitileFlows](media/VolitileFlows.png) 
+
+**Figure 2a. Reclamation scenarios of future natural flow to Lake Powell (red) and 24‑month study 10th and 50th percentile projections (blue).**
+
+
+![A white sheet with black text AI-generated
+content may be incorrect.](media/e4fc71eb5784605c5cf05b65ac1df925.png)
+
+**Table 2a. Scenarios of Lake Mead Inflow**
 
 There are two ways to interpret the extreme scenarios of inflow to Lake Mead:
 
@@ -299,38 +303,28 @@ There are two ways to interpret the extreme scenarios of inflow to Lake Mead:
 2.  **An extreme low Lake Powell release** needed to stabilize Lake Powell plus
     **gains along Grand Canyon**.
 
-The magnitude of extreme low natural inflow to Lake Powell has been determined
-by using 21 ensembles on the worksheet *HydrologicScenarios* (Salehabadi et al.,
-2024). Each ensemble typically had 100 traces. Using code written in Python, the
-three consecutive smallest values in each ensemble and each trace were found.
-This was done by iterating through all traces in all ensembles and calculating
-the average of three consecutive values for each cell. Using the smallest
-average, the position of the beginning value of the consecutive three was found.
+The magnitude of extreme low natural inflow to Lake Powell has been determined by using 21 ensembles on the worksheet HydrologicScenarios (Salehabadi et al., 2024). Each ensemble typically had 100 traces. Using code written in Python, the three consecutive smallest values in each ensemble and each trace were found. This was done by iterating through all traces in all ensembles and calculating the average of three consecutive values for each cell. Using the smallest average, the position of the beginning value of the consecutive three was found.
 
-For reference, historical Lake Mead inflows since 1990 varied from 8 to 16
-million acre-feet per year (Figure 2a) with the preponderance of inflows between
-9 and 10 maf per year (corresponding to a Lake Powell release between 8.23 and 9
-maf per year; Figure 2b). Additionally note that gains along Grand Canyon over
-the same period were 600,000 to 1 million acre-feet per year (Rosenberg, 2022;
-Wang and Schmidt, 2020; Figure 2c).
+For reference, historical Lake Mead inflows since 1990 varied from 8 to 16 million acre-feet per year (Figure 2b) with the preponderance of inflows between 9 and 10 maf per year (corresponding to a Lake Powell release between 8.23 and 9 maf per year; Figure 2c). Additionally note that gains along Grand Canyon over the same period were 600,000 to 1 million acre-feet per year (Rosenberg, 2022; Wang and Schmidt, 2020; Figure 2d).
+
 
 ![A graph showing a line Description automatically
 generated](media/8ba39f9c30237f80872d9c7682e6cb3b.png)
 
-**Figure 2a. Lake Mead inflow as measured by nearest USGS gages.**
+**Figure 2c. Lake Mead inflow as measured by nearest USGS gages.**
 
 ![A graph of a number of blue bars Description automatically generated with
 medium confidence](media/8109c4025d3cee2e29b1a3d04f9e623c.png)
 
-**Figure 2b. Histogram of Lake Mead inflows as measured by the nearest gages.**
+**Figure 2d. Histogram of Lake Mead inflows as measured by the nearest gages.**
 
 ![](media/504930ff99a905946ec9839391007127.png)
 
-**Figure 2c. Mean Grand Canyon tributary flow (Glen Canyon Dam to Lake Mead) for
+**Figure 2e. Mean Grand Canyon tributary flow (Glen Canyon Dam to Lake Mead) for
 different sequence lengths.**
 
 Further note that different methods to estimate Lake Mead inflow give different
-values (Figure 6). For example:
+values. For example:
 
 -   Nearest USGS gages.
 
@@ -352,7 +346,7 @@ In Year 1 (Column C), beginning of year reservoir storage is the Lake Mead
 volumes specified in Cell B19.
 
 In subsequent years (Columns D, E, …), the Lake Mead storage volume is the is
-the storage at the end of the prior year (Row 134).
+the storage at the end of the prior year (Row 146).
 
 # Step 3. Split existing Lake Mead storage among accounts (year 1 only)
 
@@ -373,12 +367,12 @@ debits.*
 
 | **User**    | **Suggested initial volume**                                                                             |
 |-------------|----------------------------------------------------------------------------------------------------------|
-| Reclamation | Protection volume entered in Row 20. This level is shown as elevation 1,020 feet in Figure 1a.           |
-| California  | Water Conservation (ICS) account balance shown in Figure 1b (rollover).                                  |
-| Arizona     | Water Conservation (ICS) account balance shown in Figure 1b (rollover).                                  |
-| Nevada      | Water Conservation (ICS) account balance shown in Figure 1b (rollover).                                  |
+| Reclamation | Protection volume entered in Row 20. This level is shown as elevation 1,020 feet in Figure 1b.           |
+| California  | Water Conservation (ICS) account balance shown in Figure 1c (rollover).                                  |
+| Arizona     | Water Conservation (ICS) account balance shown in Figure 1c (rollover).                                  |
+| Nevada      | Water Conservation (ICS) account balance shown in Figure 1c (rollover).                                  |
 | Mexico      | Water Conservation account balance under Minutes 323 to the U.S.-Mexico Treaty (IBWC, 2021; USBR, 2019). |
-| Other users | Remaining water in the Public Pool shown in Figure 1a.                                                   |
+| Other users | Remaining water in the Public Pool shown in Figure 1b.                                                   |
 
 If the Lake Mead active storage minus the Water Conservation Account balances:
 
@@ -439,7 +433,7 @@ As a default, we use percentages shown in grey highlighted Row 5 of Table 4a.
 **Table 4a. Splits of reservoir inflow based on 2024 Lower Basin Shortage
 Agreement with Tribal Nations included.**
 
-![](media/b53c9ee9aeae742eec9132282c8b5bf3.emf)
+ ![DivideInflow](media/DivideInflow.png)
 
 We derived these values as follows.
 
