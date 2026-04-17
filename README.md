@@ -6,23 +6,45 @@
 ### [Draft Manuscript](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/raw/refs/heads/DavidEdits/LakeMeadWaterConservationProgramAnalysis.docx) (Microsoft WORD)
 
 ## Purpose														
-The purpose of this immersive online collaborative model is to give collaborators the opportunity to immerse in and personify water user roles for a Lake Mead model based on the principle of division of reservoir inflow.  The model works on the principles of **A) Divide reservoir inflow**, **B. Subtract evaporation**, and **C) Users consume and conserve within their available water**, others choices, and real-time discussion of choices.
-We see uses of the tool for two purposes:
+The purpose of this tool is to give users the opportunity to immerse in and
+personify water user roles for a Lake Mead model based on the principle of
+divide reservoir inflow. The process is: **A) Divide reservoir inflow**, **B)
+Subtract evaporation**, and **C) Users withdraw and conserve within their
+available water**, others choices, and real-time discussion of choices. We see
+uses of the tool for three purposes:
 
-1. As researchers we want to learn: Why basin partners choose assumptions and how extreme; *Why* and *how* basin partners manage their risk of uncertain future water supply; Which new insights they take from a model session. 
-1. Provoke thought and discussion to: A) Stabilize and recover reservoir storage under conditions of extreme low storage and inflow, and B) Give users more autonomy to manage their conflicting vulnerabilities to water shortages.										
+- To improve NOAA tools to communicate and manage risks of water shortages.
 
-We focus on scenarios of extreme low flow and low reservoir storage.
+-   As researchers we want to learn *Why* basin partners choose assumptions and
+    *how* extreme; *Why* and *how* basin partners articulate their risk of
+    uncertain future water supply and manage their vulnerability; and *Which*
+    new insights they take from a model session.
 
-## Key Ideas
-**1) Lake Mead water level is the sum of the protection elevation plus each user's available water.**
-<img src="https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/main/ModelGuide/media/LakeMeadStorageFromAvailableWater.png" width=50% height=50%>
+-   Provoke thought and discussion to:
 
-**2) Each user manages all their available water not just prior conserved water.**
-<img src="https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/main//ModelGuide/media/b067b34f64dc5f62cef840cc605c1345.png" width=75%>
+    -   Stabilize and recover reservoir storage under conditions of low storage
+        *and* low inflow.
 
-**3) Tribal Nations of the Lower Basin manage their own settled water rights.**
-<img src="https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/main/ModelGuide/media/TribalNationsFigureNoBorder.png" width=50%>
+    -   Give users more autonomy to manage their conflicting vulnerabilities to
+        water shortages.
+
+# Key Model Ideas
+
+1. There is borad agreement that Colorado River flows will be more volative, declining, and have longer-lasting periods of flow.
+
+      ![VolitileFlows](ModelGuide/media/VolitileFlows.png)
+
+2.  **Lake Mead water level is the sum of the protection elevation plus each
+    user’s available water.**
+
+    ![A diagram of water evaporation Description automatically
+    generated](ModelGuide/media/4890d2b6825df736576fb0d97b5371f3.png)
+
+3.  **Each user manages all their available water not just prior conserved
+    water.**
+
+![A white background with black text Description automatically
+generated](ModelGuide/media/5d5e1f07842cc149e1993f61d5e69a12.png)
 
 
 To use, download the [Excel Model File](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/raw/refs/heads/main/LakeMeadWaterBankDivideInflow.xlsx), 
