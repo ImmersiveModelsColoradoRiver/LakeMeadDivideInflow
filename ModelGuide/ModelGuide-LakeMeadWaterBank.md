@@ -563,7 +563,7 @@ incorrect.](media/116ba55f46390816a36f1a492b850e04.png)**
 Each participant has a dashboard where they can trade, conserve, and consume
 their available water (Figure 5a).
 
-![](media/f290eaf0fa8e6f8d49607c9c6fa5cbf4.png)
+   ![ParticipantDashboards](media/ParticipantDashboards.png)
 
 **Figure 5a. Reclamation Protect Dashboard annotated. Starting storage is 1,055
 feet (8.0 maf), the reservoir protect elevation is 1,005 feet (4.8 maf), and
@@ -694,13 +694,13 @@ david.rosenberg@usu.edu.
 
 The data, code, and directions to generate figures in this post are available on
 Github.com at
-<https://github.com/dzeke/ColoradoRiverCollaborate/tree/main/LakeMeadWaterBankDivideInflow>.
+https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow.
 
 # Requested Citation
 
-Rosenberg (2024). “Lake Mead Water Bank based on the Principle of Divide
+Rosenberg (2026). “Lake Mead Water Bank based on the Principle of Divide
 Reservoir Inflow." Utah State University, Logan, UT.
-<https://github.com/dzeke/ColoradoRiverCollaborate/tree/main/LakeMeadWaterBankDivideInflow>.
+https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/main/ModelGuide/ModelGuide-LakeMeadWaterBank.md.
 
 # Appendix 1. Summary of Current Colorado River Operations
 
