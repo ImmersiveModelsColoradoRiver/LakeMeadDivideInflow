@@ -2,7 +2,7 @@
 
 ### [Lets Start (visual directions)](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/main/ImmersiveModelLakeMeadDivideInflow-LetsStart.pdf) (pdf file)
 ### [Model Guide](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/main/ModelGuide/ModelGuide-LakeMeadWaterBank.md) (Help file)
-### [Model File]() (Excel)
+### [Model File](LakeMeadWaterBankDivideInflow.xlsx) (Excel)
 ### [Draft Manuscript](https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/raw/refs/heads/LakeMeadWaterConservationProgramAnalysis.docx) (Microsoft WORD)
 
 ## Purpose														
