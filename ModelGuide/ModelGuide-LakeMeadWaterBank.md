@@ -112,23 +112,27 @@ Table 1b and Figure 1a show the population of the Lower Basin. The values show p
 | Tribal Nations | 11,949         |
 | **Total**      | **34,090,395** |
 
+
+<img width="727" height="524" alt="image" src="https://github.com/user-attachments/assets/dfc46cb8-57e0-4a27-a89c-08cbfc2bc2b1" />
+
 **Figure 1a. Population of the Lower Basin**
 
 **Arizona**
 
 Figure 1b shows the water supply sources used in Arizona and Figure 1c shows how water was used in Arizona by sector in 2017 (ADWR, 2020).
 
-![](media/76e91cfa6389737f42f64fe6e5dd3bf9.png)
+<img width="616" height="242" alt="image" src="https://github.com/user-attachments/assets/5f19a0e7-d09c-46b7-8fe0-08b6c8790164" />
 
 **Figure 1b. Water supply in Arizona**
 
-![](media/593c9d8b580504361f91ff19bfa9d03d.png)
+<img width="594" height="245" alt="image" src="https://github.com/user-attachments/assets/87a3c419-d072-402f-876d-7f101e61c2d3" />
 
 **Figure 1c. Water use by sector in Arizona**
 
+
 The Central Arizona Project (CAP) delivers Colorado River water to Maricopa, Pinal, and Pima counties. Figure 1d shows how CAP water is allotted based on priority: P3 refers to higher priority water; Indian refers to water delivered to the Tribes; M&I stands for municipal and industry and is close to equal in priority to Indian; NIA is Non-Indian Agricultural water that is available to cities, industry, and tribes; Ag Pool is excess water after contracts are satisfied that is available to agricultural users; and Other Excess is any water left after Ag Pool is satisfied and has historically been used for underground storage (CAP, 2025).
 
-![](media/1e317c1d7de4637eec69b6b0e7527faa.png)
+<img width="547" height="413" alt="image" src="https://github.com/user-attachments/assets/79159868-7ab8-4bd3-be12-1bae66d0c698" />
 
 **Figure 1d. CAP water contracts volume by priority.**
 
@@ -136,7 +140,9 @@ The Central Arizona Project (CAP) delivers Colorado River water to Maricopa, Pin
 
 California has the biggest allotment in the Lower Basin. Water is exported from the Colorado River to Southern California. Figure 1e shows the areas in California receiving water from the Colorado River (Christian-Smith et al., 2010). Table 1c has information about water supply and use by 4 of the main water districts using Colorado River water (CVWD, 2026; IID, 2026; MWD, 2026; PVID, 2026). These water districts do not represent all of the Colorado River water used in California but are big users.
 
-**Figure 1e. Water districts in California that receive water from the Colorado River.**![](media/c84d28cb422209c1e68fe72f88e4ce40.png)
+<img width="567" height="428" alt="image" src="https://github.com/user-attachments/assets/37715d17-5800-4822-8eea-ee4a935a80d0" />
+
+**Figure 1e. Water districts in California that receive water from the Colorado River.**
 
 **Table 1c. Summary of water supply and water use for California water districts using Colorado River water.**
 
@@ -151,7 +157,7 @@ California has the biggest allotment in the Lower Basin. Water is exported from 
 
 The Southern Nevada Water Authority (SNWA) is the main water user in Nevada for Colorado River water using about 270,000 ac-ft of the total 300,000 ac-ft allotment (SNWA, 2026a). SNWA gets 90% of their water from the Colorado River and 10% from groundwater and serves 2.3 million people (SNWA, 2026b). Figure 1f shows the water use by SNWA, with 45% being used indoors and 99% of that water being recycled (SNWA, 2026a).
 
-![](media/5785a7f847824fc45f137d3256435d7a.png)
+<img width="975" height="613" alt="image" src="https://github.com/user-attachments/assets/c18b01f6-406c-40d1-b65f-68121e78a885" />
 
 **Figure 1f. SNWA water use and recycling.**
 
@@ -159,7 +165,7 @@ The Southern Nevada Water Authority (SNWA) is the main water user in Nevada for 
 
 Mexico has an allotment of 1.5 maf which used the cities of Mexicali, Tecate, Tijuana, and Ensenada. Figure 1g shows how much each city uses the Colorado River as a source of water (CEABC, 2023). Table 1d shows the water distribution by sector of Colorado River water in Mexico (IMTA, 2020).
 
-![](media/0a9172faf894bba31aa9d7e34ad9bf0c.png)
+<img width="874" height="597" alt="image" src="https://github.com/user-attachments/assets/72d17e8f-c43f-44dc-8d26-16f5a10960ea" />
 
 **Figure 1g. Water sources by municipality in Baja California.**
 
@@ -194,9 +200,10 @@ Table 1e and Figure 1h show the consumptive water use for the Tribal Nations in 
 |                | AZ        | 49,515                                  | 2,166                                               |                                               |                                      | 65,722    |
 |                | CA        | 11,797                                  | 20                                                  |                                               |                                      | 15,175    |
 
+<img width="980" height="495" alt="image" src="https://github.com/user-attachments/assets/7f1f7511-2121-45e2-af2b-8bca681ba4a9" />
+
 **Figure 1h. Consumptive water use of the Tribal Nations in the Lower Basin including unused water.**
 
-![](media/a5384239bd58a69ae53b2fe112e3eebb.png)
 
 ## 1A. Explain cell types
 
