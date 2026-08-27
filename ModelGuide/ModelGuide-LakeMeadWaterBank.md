@@ -2,9 +2,13 @@
 
 ## Immersive Model for Lake Mead Based on the Principle of Divide Reservoir Inflow
 
-David E. Rosenberg, Anabelle Myers
+David E. Rosenberg, Anabelle Myers, Brittany Fager
 
 Utah State University
+
+[david.rosenberg@usu.edu](mailto:david.rosenberg@usu.edu)
+
+<http://rosenberg.usu.edu>
 
 April 16, 2026
 
@@ -20,10 +24,18 @@ The purpose of this tool is to give users the opportunity to immerse in and pers
 
 # Key Model Ideas
 
-1.  **There is  agreement thatColorado River flows will be more , declining, and have longer-lasting periods of flow.**
+1.  **There is broad agreement that Colorado River flows will be more volatile, declining, and have longer-lasting periods of low flow.**![A graph of different colored lines AI-generated content may be incorrect.](media/fd507a8f9aa639b557948cbf5f4504b2.png)
 2.  **Lake Mead water level is the sum of the protection elevation plus each user’s available water.**
+
+    ![A diagram of water evaporation Description automatically generated](media/4890d2b6825df736576fb0d97b5371f3.png)
+
 3.  **Each user manages all their available water not just prior conserved water.**
+
+![A white background with black text Description automatically generated](media/5d5e1f07842cc149e1993f61d5e69a12.png)
+
 4.  **Tribal Nations of the Lower Basin manage their own settled water rights**
+
+![A pie chart with numbers and a number of states AI-generated content may be incorrect.](media/76d65ebe7158969bcef62dd8bcad94ca.png)
 
 This User Guide provides context information for each individual and group choice within the immersive model. The document also explains how choices build on existing Colorado River management (Appendix A). The document also suggests potential values to enter for user choices.
 
@@ -40,7 +52,7 @@ Requirements
 
 Review the main canons of existing Colorado River management (Appendix A; persons not familiar with current Colorado River operations).
 
-Follow the setup and play instructions (Box 1). The rest of the document provides guidance on each step.
+![A screenshot of a computer test AI-generated content may be incorrect.](media/253efb804c604cf684059a4cd18fdacb.png)Follow the setup and play instructions (Box 1). The rest of the document provides guidance on each step.
 
 ## Types of Use
 
@@ -59,23 +71,18 @@ Participants can explore:
 
 # Step 1. Assign Accounts, Articulate Vulnerabilities, and Strategies to Manage Vulnerability
 
-The Reclamation, California, Arizona, Nevada, and Mexico accounts represent entities defined in the 1922 Colorado River Compact, US-Mexico Treaty of 1948, subsequent Minutes 319 and 323, Lower Basin drought contingency plans, and pledges to include more accounts (Table 1a The Tribal Nations of the Lower Basin users represents Tribal Nations and their settled water rights
-
-**Maps of water user areas**
-
--   
--   
+The Reclamation, California, Arizona, Nevada, and Mexico accounts represent entities defined in the 1922 Colorado River Compact, US-Mexico Treaty of 1948, subsequent Minutes 319 and 323, Lower Basin drought contingency plans, and pledges to include more accounts (Table 1a)(1922; IBWC, 2021; USBR, 2019; USBR, 2020). The Tribal Nations of the Lower Basin users represents Tribal Nations and their settled water rights (Ten Tribes Partnership, 2018).
 
 **Table 1a. Accounts, Reason(s) to include in model, and Potential Strategies**
 
-| **Account**                       |                                                | **Potential Strategy(s)**                                                                                                                                                                                                                                                                                                                                                                                                          |
-|-----------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Reclamation                       |                                                | Set Lake Mead Protection Elevation of 1,020 feet as defined in the Lower Basin Drought Contingency Plan Lake Mead will not fall below this level.<br>Lower the protection elevation to allocate more active storage to other users                                                                                                                                                                                                 |
-| California                        |                                                | Continue mandatory conservation and cutback from 4.4 maf per year as Lake Mead level declines from 1,090 to 1,025 feet See cutback schedule in *MandatoryConservation* sheet. These values exclude 0.95 maf per year of use by First Nations in the Lower Basin.                                                                                                                                                                   |
-| Arizona                           |                                                | Continue mandatory conservation and cutback from 2.8 maf per year as Lake Mead level declines from 1,090 to 1,025 feet See cutback schedule in *MandatoryConservation* sheet. These values exclude 0.95 maf per year of use by First Nations in the Lower Basin.Buy water to reduce mandatory conservation. Save some water for future years.<br>Buy water to reduce mandatory conservation. <br>Save some water for future years. |
-| Nevada                            |                                                | Continue mandatory conservation and cutback from 0.3 maf per year as Lake Mead level declines from 1,090 to 1,025 feet See cutback schedule in *MandatoryConservation* sheet. These values exclude 0.95 maf per year of use by First Nations in the Lower Basin.Buy water to reduce mandatory conservation. <br>Buy water to reduce mandatory conservation.                                                                        |
-| Mexico                            | 1944 U.S.-Mexico Treaty and subsequent Minutes | Continue mandatory conservation and cutback from 1.5 maf per year as Lake Mead levels decline See *MandatoryConservation* sheet.<br>Conserve more water beyond mandatory targets.<br>Lease water to get money for non-water projects.                                                                                                                                                                                              |
-| Tribal Nations of the Lower Basin |                                                | Currently 0.47 of 0.95 million acre-feet of settled water rights are used and consumed <br>Lease settled, undeveloped water to other users to acquire capital to build new projects.<br>Save water for future use.                                                                                                                                                                                                                 |
+| **Account**                       |                                                                                                             | **Potential Strategy(s)**                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Reclamation                       | Article II(c to g) of the Colorado River Compact (1922). Lower Basin Drought Contingency Plan (USBR, 2019). | Set Lake Mead Protection Elevation of 1,020 feet as defined in the Lower Basin Drought Contingency Plan (USBR, 2019). Lake Mead will not fall below this level.<br>Lower the protection elevation to allocate more active storage to other users                                                                                                                                                                                                             |
+| California                        | Article II(c to g) of the Colorado River Compact (1922).                                                    | Continue mandatory conservation and cutback from 4.4 maf per year as Lake Mead level declines from 1,090 to 1,025 feet (USBR, 2019). See cutback schedule in *MandatoryConservation* sheet. These values exclude 0.95 maf per year of use by First Nations in the Lower Basin.<br>Cut back an addition amount per year to represent the 500-Plus Plan (Allhands, 2021).<br>Buy water to reduce mandatory conservation. <br>Save some water for future years. |
+| Arizona                           | Article II(c to g) of the Colorado River Compact (1922).                                                    | Continue mandatory conservation and cutback from 2.8 maf per year as Lake Mead level declines from 1,090 to 1,025 feet (USBR, 2019). See cutback schedule in *MandatoryConservation* sheet. These values exclude 0.95 maf per year of use by First Nations in the Lower Basin.<br>Cut back an addition amount per year to represent the 500-Plus Plan (Allhands, 2021).<br>Buy water to reduce mandatory conservation. <br>Save some water for future years. |
+| Nevada                            | Article II(c to g) of the Colorado River Compact (1922).                                                    | Continue mandatory conservation and cutback from 0.3 maf per year as Lake Mead level declines from 1,090 to 1,025 feet (USBR, 2019). See cutback schedule in *MandatoryConservation* sheet. These values exclude 0.95 maf per year of use by First Nations in the Lower Basin.<br>Cut back an addition amount per year to represent the 500-Plus Plan (Allhands, 2021).<br>Buy water to reduce mandatory conservation. <br>Save some water for future years. |
+| Mexico                            | 1944 U.S.-Mexico Treaty and subsequent Minutes                                                              | Continue mandatory conservation and cutback from 1.5 maf per year as Lake Mead levels decline (IBWC, 2021). See *MandatoryConservation* sheet.<br>Conserve more water beyond mandatory targets.<br>Lease water to get money for non-water projects.                                                                                                                                                                                                          |
+| Tribal Nations of the Lower Basin | Include more accounts (USBR, 2020)<br>Tribal water study (Ten Tribes Partnership, 2018)                     | Currently 0.47 of 0.95 million acre-feet of settled water rights are used and consumed (Ten Tribes Partnership, 2018).<br>Lease settled, undeveloped water to other users to acquire capital to build new projects.<br>Save water for future use.                                                                                                                                                                                                            |
 
 A participant can play one or more accounts.
 
@@ -85,132 +92,220 @@ Delete the entry in Cell A10 to remove the Tribal Nations of the Lower Basin
 
 user. Removing will assign 0.95 maf of settled water rights to Arizona and California.
 
-**Maps of water user areas**
+**Background Information for the Lower Basin**
 
--   
--   
+Maps of water user areas
 
-|   |   |
-|---|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+-   [Upper Basin, Lower Basin, Mexico](https://www.usbr.gov/lc/images/maps/CRBSmap.jpg) (USGS, 2016)
+-   [First Nations](http://www.naturalresourcespolicy.org/images/col-river-basin/map-tribes-crb.jpg) (Ten Tribes Partnership, 2018)
 
-|   |   |   |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+Table 1b and Figure 1a show the population of the Lower Basin. The values show population of counties, cities, or tribes and is an approximation of the population in the Lower Basin that relies on the Colorado River. The population data for Arizona, California, and Nevada are from 2022 (USBR, 2026b). The data for Mexico is from 2020 and the data for the Tribal Nations is from 2018 ( CEABC, 2023; Ten Tribes Partnership, 2018).
 
-|   |   |
-|---|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+**Table 1b. Population of the Lower Basin**
 
-|   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+| **State**      | **Population** |
+|----------------|----------------|
+| Arizona        | 6,989,457      |
+| California     | 21,191,246     |
+| Nevada         | 2,265,926      |
+| Mexico         | 3,631,817      |
+| Tribal Nations | 11,949         |
+| **Total**      | **34,090,395** |
+
+**Figure 1a. Population of the Lower Basin**
+
+**Arizona**
+
+Figure 1b shows the water supply sources used in Arizona and Figure 1c shows how water was used in Arizona by sector in 2017 (ADWR, 2020).
+
+![](media/76e91cfa6389737f42f64fe6e5dd3bf9.png)
+
+**Figure 1b. Water supply in Arizona**
+
+![](media/593c9d8b580504361f91ff19bfa9d03d.png)
+
+**Figure 1c. Water use by sector in Arizona**
+
+The Central Arizona Project (CAP) delivers Colorado River water to Maricopa, Pinal, and Pima counties. Figure 1d shows how CAP water is allotted based on priority: P3 refers to higher priority water; Indian refers to water delivered to the Tribes; M&I stands for municipal and industry and is close to equal in priority to Indian; NIA is Non-Indian Agricultural water that is available to cities, industry, and tribes; Ag Pool is excess water after contracts are satisfied that is available to agricultural users; and Other Excess is any water left after Ag Pool is satisfied and has historically been used for underground storage (CAP, 2025).
+
+![](media/1e317c1d7de4637eec69b6b0e7527faa.png)
+
+**Figure 1d. CAP water contracts volume by priority.**
+
+**California**
+
+California has the biggest allotment in the Lower Basin. Water is exported from the Colorado River to Southern California. Figure 1e shows the areas in California receiving water from the Colorado River (Christian-Smith et al., 2010). Table 1c has information about water supply and use by 4 of the main water districts using Colorado River water (CVWD, 2026; IID, 2026; MWD, 2026; PVID, 2026). These water districts do not represent all of the Colorado River water used in California but are big users.
+
+**Figure 1e. Water districts in California that receive water from the Colorado River.**![](media/c84d28cb422209c1e68fe72f88e4ce40.png)
+
+**Table 1c. Summary of water supply and water use for California water districts using Colorado River water.**
+
+| **User**                        | **Water Supply**                                                                                  | **Details**                                                                                                                                                                                                                                                                                     |
+|---------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Imperial Irrigation District    | Colorado River                                                                                    | 97% for agriculture, 3% municipal/industry<br>High-priority 3.1 maf allotment<br>1 million acres of agriculture                                                                                                                                                                                 |
+| Metropolitan Water District     | Colorado River<br>State Water Project Groundwater<br>Stormwater<br>Recycled Water<br>Desalination | 20% from the Colorado River, 30% from State Water Project, 50% from local sources<br>Serves about 19 million people                                                                                                                                                                             |
+| Coachella Valley Water District | Colorado River<br>Groundwater<br>Recycled Water                                                   | Serves about 270,000 residents<br>Domestic water comes from groundwater <br>Water from the Colorado River is used for agriculture<br>Agriculture also uses ¼ to 1/3 of private groundwater<br>Some Colorado River water is exchanged with State Water Project and used to replenish groundwater |
+| Palo Verde Irrigation District  | Colorado River                                                                                    | Mostly used for agriculture<br>PVID also uses groundwater hydraulically connected to the Colorado River                                                                                                                                                                                         |
+
+**Nevada**
+
+The Southern Nevada Water Authority (SNWA) is the main water user in Nevada for Colorado River water using about 270,000 ac-ft of the total 300,000 ac-ft allotment (SNWA, 2026a). SNWA gets 90% of their water from the Colorado River and 10% from groundwater and serves 2.3 million people (SNWA, 2026b). Figure 1f shows the water use by SNWA, with 45% being used indoors and 99% of that water being recycled (SNWA, 2026a).
+
+![](media/5785a7f847824fc45f137d3256435d7a.png)
+
+**Figure 1f. SNWA water use and recycling.**
+
+**Mexico**
+
+Mexico has an allotment of 1.5 maf which used the cities of Mexicali, Tecate, Tijuana, and Ensenada. Figure 1g shows how much each city uses the Colorado River as a source of water (CEABC, 2023). Table 1d shows the water distribution by sector of Colorado River water in Mexico (IMTA, 2020).
+
+![](media/0a9172faf894bba31aa9d7e34ad9bf0c.png)
+
+**Figure 1g. Water sources by municipality in Baja California.**
+
+**Table 1d. Colorado River water distribution in Mexico**
+
+| **Water Use Type**                 | **Percentage** |
+|------------------------------------|----------------|
+| Agriculture                        | 88.31          |
+| Industrial                         | 3.53           |
+| Urban                              | 0.87           |
+| Ecological Flow                    | 0.07           |
+| Other                              | 0.11           |
+| Available Volume with Current Ban1 | 7.11           |
+
+1\. Refers to water available to flow to the Gulf of California. The water is delivered in blocks throughout the year and local loss due to evaporation or infiltration may prevent the water from reaching the gulf.
+
+**Tribal Nations**
+
+Table 1e and Figure 1h show the consumptive water use for the Tribal Nations in the Lower Basin broken down by state (Ten Tribes Partnership, 2018).
+
+**Table 1e. Consumptive water use by state for Tribal Nations in the Lower Basin in acre-ft**
+
+| **Tribe**      | **State** | **Irrigated Agriculture and Livestock** | **Domestic, Commercial, Municipal, and Industrial** | **Environmental, Cultural, and Recreational** | **Transfers, Leases, and Exchanges** | **Total** |
+|----------------|-----------|-----------------------------------------|-----------------------------------------------------|-----------------------------------------------|--------------------------------------|-----------|
+| Quechan        | AZ        | 145                                     | 20                                                  | 845                                           |                                      | 1,554     |
+|                | CA        | 23,149                                  | 395                                                 |                                               | 13,000                               | 60,092    |
+| Cocopah        | AZ        | 3,835                                   |                                                     |                                               |                                      | 6,973     |
+| Colorado River | AZ        | 348,598                                 | 4,963                                               | 848                                           |                                      | 640,981   |
+|                | CA        | 2,154                                   | 534                                                 |                                               |                                      | 4,867     |
+| Chemehuevi     | CA        | 14                                      | 145                                                 | 5                                             |                                      | 307       |
+| Fort Mojave    | NV        | 2,174                                   | 774                                                 |                                               |                                      | 4,721     |
+|                | AZ        | 49,515                                  | 2,166                                               |                                               |                                      | 65,722    |
+|                | CA        | 11,797                                  | 20                                                  |                                               |                                      | 15,175    |
+
+**Figure 1h. Consumptive water use of the Tribal Nations in the Lower Basin including unused water.**
+
+![](media/a5384239bd58a69ae53b2fe112e3eebb.png)
 
 ## 1A. Explain cell types
 
-Four model cell types are defined by fill color (Table
+Four model cell types are defined by fill color (Table 1e).
 
-**Table . Model Cell Types**
+**Table 1e. Model Cell Types**
+
+![](media/d0cf234ab869f6af3f049b1c58fbe2d1.png)
 
 ## 1B. Make Assumptions
 
 ### (i) Evaporation rates
 
-Evaporation rates for Lake Mead are presently entered as the midpoint within reported ranges of measurements (Table Evaporation rates for Lake Mead are presently measured using state-of-the-art eddy-covariance however there is a several year delay in reporting values A sensitivity analysis found that the lower and upper bounds on Lake Mead evaporation rates for a five year study for Lake Mead draw down saw variations of 0.25 maf or less in Lake Mead storage volume.
+Evaporation rates for Lake Mead are presently entered as the midpoint within reported ranges of measurements (Table 1f)(Schmidt et al., 2016). Evaporation rates for Lake Mead are presently measured using state-of-the-art eddy-covariance however there is a several year delay in reporting values (Moreo, 2015). A sensitivity analysis found that the lower and upper bounds on Lake Mead evaporation rates for a five year study for Lake Mead draw down saw variations of 0.25 maf or less in Lake Mead storage volume.
 
-**Table . Reservoir evaporation rates (feet per year)**
+**Table 1f. Reservoir evaporation rates (feet per year)**
 
 | **Reservoir** | **Midpoint** | **Range** |
 |---------------|--------------|-----------|
 | Mead          | 6.0          | 5.5 – 6.4 |
 
-**Figure . Range of Lake Mead Evaporation vs Active Storage**
+![A graph of a line graph Description automatically generated with medium confidence](media/b8c3487b2edaa090c29e635c0b64b2c1.png)
+
+**Figure 1i. Range of Lake Mead Evaporation vs Active Storage**
 
 ### (ii) Start storage
 
-**Figure . Lake Mead Storage (solid black line), Water Conservation (ICS) Account Balances (light blue fill), and anticipated lake volume absent the water conservation program (dashed red line). The conservation program kept Lake Mead level above elevation 1,020 feet (5.9 million acre-feet) during low lake levels in 2022.**
+Reservoir start storage is taken from the [data portal](https://www.usbr.gov/lc/region/g4000/hourly/mead-elv.html) (USBR, 2021b). Text in Column D lists the date. Figure 1j shows Lake Mead storage over time (Solid black line).
+
+![A graph of water and water conservation Description automatically generated with medium confidence](media/6b1c8702d79a4c42d582bec134c4d9c1.png)
+
+**Figure 1j. Lake Mead Storage (solid black line), Water Conservation (ICS) Account Balances (light blue fill), and anticipated lake volume absent the water conservation program (dashed red line). The conservation program kept Lake Mead level above elevation 1,020 feet (5.9 million acre-feet) during low lake levels in 2022.**
 
 ### (iii) Protection elevation
 
-The Reclamation user decides the Lake Mead elevation/volume to protect against further drawdown. A default value of 1,020 feet (5.7 million acre-feet) is used because this level was specified in the Lower Basin Drought Contingency Plan (Figure 1a, dark blue fill labeled Protect When lowering the Lake Mead protection elevation, the storage above the Protect Zone increases so that more of the starting reservoir storage is assigned to the other users as their initial available water. The model maintains the Protection elevation/volume because the Reclamation user is always assigned a share of inflow that exactly equals its share of evaporation. The protection volume is calculated from the Elevation-Area-Volume curve for Lake Mead. See worksheet *Mead-Elevation-Area*.
+The Reclamation user decides the Lake Mead elevation/volume to protect against further drawdown. A default value of 1,020 feet (5.7 million acre-feet) is used because this level was specified in the Lower Basin Drought Contingency Plan (Figure 1a, dark blue fill labeled Protect)(USBR, 2019). More recently there has been discussion to lower the protect elevation to 1,000 feet (Buschatzke et al., 2024). When lowering the Lake Mead protection elevation, the storage above the Protect Zone increases so that more of the starting reservoir storage is assigned to the other users as their initial available water. The model maintains the Protection elevation/volume because the Reclamation user is always assigned a share of inflow that exactly equals its share of evaporation. The protection volume is calculated from the Elevation-Area-Volume curve for Lake Mead. See worksheet *Mead-Elevation-Area*.
 
 ### (iv) Storage above Protect Zone
 
-This storage value is the Reservoir start storage (Cell C19) minus the Protection volume (Cell C20)(Figure , light and medium blue fills labeled Water Conservation Accounts and Public Pool). The Storage above the Protect Zone represents the active storage that can be assigned to other users as their initial available (see Row 35).
+This storage value is the Reservoir start storage (Cell C19) minus the Protection volume (Cell C20)(Figure 1j, light and medium blue fills labeled Water Conservation Accounts and Public Pool). The Storage above the Protect Zone represents the active storage that can be assigned to other users as their initial available (see Row 35).
 
 ### (v) Water Conservation Program (ICS) Total Balance.
 
-This entry is the sum of all existing water conservation program account balances from 2007 to present (Figure , light blue fill). These balances are also referred to as the Intentionally Created Surplus (ICS) account balances and are reported at shows Water Conservation Account balances over time for the three Lower Basin states. Reclamation typically publishes values in Spring for the prior calendar year. Note, Mexico’s water conservation account balance is not shown in Figure .
+This entry is the sum of all existing water conservation program account balances from 2007 to present (Figure 1j, light blue fill). These balances are also referred to as the Intentionally Created Surplus (ICS) account balances and are reported at (USBR, 2021a). Figure 1k shows Water Conservation Account balances over time for the three Lower Basin states. Reclamation typically publishes values in Spring for the prior calendar year. Note, Mexico’s water conservation account balance is not shown in Figure 1k.
 
-**Figure . Lake Mead Water Conservation (ICS) Account balances over time**
+![A graph of different colored bars Description automatically generated with medium confidence](media/fb068f98d855c3c2aad9423fce82b26c.png)
+
+**Figure 1k. Lake Mead Water Conservation (ICS) Account balances over time**
 
 ### (vi) Remaining Storage above the Protect and ICS Balances
 
-This storage is calculated as the Lake Mead storage above the protection zone (Cell C21) minus the total water conservation program balances (Cell C21; Blue Public pool in Figure ). This storage represents additional storage that may be allocated to the Lower Basin states or other users such as Tribal Nations of the Lower Basin as their initial available water (see Step 3 Split storage in Row 35).
+This storage is calculated as the Lake Mead storage above the protection zone (Cell C21) minus the total water conservation program balances (Cell C21; Blue Public pool in Figure 1bj). This storage represents additional storage that may be allocated to the Lower Basin states or other users such as Tribal Nations of the Lower Basin as their initial available water (see Step 3 Split storage in Row 35).
 
 ### (vii) Percent of Tribal Nation water in California
 
-This cell (B24) indicates the percentage of the 0.95 million acre-feet of total settled water rights of Tribal Nations in the Lower Basin that are located in California (Figure
+This cell (B24) indicates the percentage of the 0.95 million acre-feet of total settled water rights of Tribal Nations in the Lower Basin that are located in California (Figure 1l).
 
-**Figure . How 0.95 maf of settled water rights of Tribal Nations of the Lower Basin are drawn from each Lower Basin state.**
+![A pie chart with numbers and a number of states AI-generated content may be incorrect.](media/ca9e80fb94d14438d180ce5c55a6236b.png)
 
-The volumes and percentages of the Tribal callout pie section in Figure were calculated from the volumes of settled water rights and their location as enumerated in Reclamation’s Tribal Water Study (Tables
+**Figure 1l. How 0.95 maf of settled water rights of Tribal Nations of the Lower Basin are drawn from each Lower Basin state.**
 
-**Table . Location of settled water rights of Tribal Nations within Lower Basin States**.
+The volumes and percentages of the Tribal callout pie section in Figure 1l were calculated from the volumes of settled water rights and their location as enumerated in Reclamation’s Tribal Water Study (Tables 1g and 1h)(Ten Tribes Partnership, 2018).
 
-**Table . Location of each Tribal Nation and amount of settled water rights**
+**Table 1g. Location of settled water rights of Tribal Nations within Lower Basin States**.
 
-Tables and and the associated calculations are also shown in the **TribalWater** worksheet within the Excel model file.
+![A table with numbers and text Description automatically generated](media/6fe34cf6e5eb2d852d451ba384aeba63.png)
+
+**Table 1h. Location of each Tribal Nation and amount of settled water rights**
+
+![A table with numbers and text Description automatically generated](media/9861a30a428c92924d0c609a039c53be.png)
+
+Tables 1g and 1h and the associated calculations are also shown in the **TribalWater** worksheet within the Excel model file.
 
 ### (vii) Percent of Tribal Nation water in Arizona
 
-### This cell specifies the percent of settled water rights for Tribal Nations of the Lower Basin that are located in Arizona (see also Figure , Table , and Table ). This cell is calculated as 100% minus the percentage entered for California in Cell B24.
+### This cell specifies the percent of settled water rights for Tribal Nations of the Lower Basin that are located in Arizona (see also Figure 1l, Table 1g, and Table 1h). **This cell is calculated as 100% minus the percentage entered for California in Cell B24.**
 
 # Step 2. Specify Lake Mead Inflow
 
 Each Lake Mead inflow for the year will be specified by the person guiding the model session at the beginning of each timestep (Figure 2a and Table 2a). These choices will ensure an accurate representation of uncertainty, unreliability, and variability in flow for Colorado River Basin management. Because Lake Mead inflow is uncertain—and likely differing from historical inflows because of aridity—we can only specify inflow as a scenario (Rosenberg, 2022). We are particularly interested in scenarios of extreme low inflow to Lake Mead because if we can manage for extreme conditions, then we can also manage for less extreme conditions.
 
+**![A graph of different colored lines AI-generated content may be incorrect.](media/fd507a8f9aa639b557948cbf5f4504b2.png)**
+
 **Figure 2a. Reclamation scenarios of future natural flow to Lake Powell (red) and 24‑month study 10th and 50th percentile projections (blue).**
 
-**Table 2a. Scenarios of Lake  Inflow**
+**Table 2a. Scenarios of Lake Mea**![A white sheet with black text AI-generated content may be incorrect.](media/e4fc71eb5784605c5cf05b65ac1df925.png)**d Inflow**
 
 There are two ways to interpret the extreme scenarios of inflow to Lake Mead:
 
 1.  **Low natural inflow to Lake Powell** minus **Lake Powell evaporation** plus **gains along Grand Canyon**. Under extreme conditions, the Lake Powell evaporation equals gains along Grand Canyon so the natural inflow to Lees Ferry translates to the inflow to Lake Mead. This method also assumes there is *no* Upper Basin consumptive use.
 2.  **An extreme low Lake Powell release** needed to stabilize Lake Powell plus **gains along Grand Canyon**.
 
-The magnitude of extreme low natural inflow to Lake Powell has been determined by using 21 ensembles on the worksheet *HydrologicScenarios*  Each ensemble typically had 100 traces. Using code written in Python, the three consecutive smallest values in each ensemble and each trace were found. This was done by iterating through all traces in all ensembles and calculating the average of three consecutive values for each cell. Using the smallest average, the position of the beginning value of the consecutive three was found.
+The magnitude of extreme low natural inflow to Lake Powell has been determined by using 21 ensembles on the worksheet *HydrologicScenarios* (Salehabadi et al., 2024). Each ensemble typically had 100 traces. Using code written in Python, the three consecutive smallest values in each ensemble and each trace were found. This was done by iterating through all traces in all ensembles and calculating the average of three consecutive values for each cell. Using the smallest average, the position of the beginning value of the consecutive three was found.
 
 For reference, historical Lake Mead inflows since 1990 varied from 8 to 16 million acre-feet per year (Figure 2b) with the preponderance of inflows between 9 and 10 maf per year (corresponding to a Lake Powell release between 8.23 and 9 maf per year; Figure 2c). Additionally note that gains along Grand Canyon over the same period were 600,000 to 1 million acre-feet per year (Rosenberg, 2022; Wang and Schmidt, 2020; Figure 2d).
 
-**Figure 2c. Lake Mead inflow as measured by nearest USGS gages.**
+![A graph showing a line Description automatically generated](media/8ba39f9c30237f80872d9c7682e6cb3b.png)
 
-**Figure 2d. Figure 2c. Histogram of Lake Mead inflows as measured by the nearest gages.**
+**Figure 2b. Lake Mead inflow as measured by nearest USGS gages.**
+
+![A graph of a number of blue bars Description automatically generated with medium confidence](media/8109c4025d3cee2e29b1a3d04f9e623c.png)
+
+**Figure 2c. Histogram of Lake Mead inflows as measured by the nearest gages.**
+
+![](media/504930ff99a905946ec9839391007127.png)
 
 **Figure 2d. Mean Grand Canyon tributary flow (Glen Canyon Dam to Lake Mead) for different sequence lengths.**
 
-Further note that different methods to estimate Lake Mead inflow give different values For example:
+Further note that different methods to estimate Lake Mead inflow give different values (Figure 6). For example:
 
 -   Nearest USGS gages.
 -   Inflow data downloaded from the Reclamation Application Programming Interface (API; https://www.usbr.gov/lc/region/g4000/riverops/_HdbWebQuery.html).
@@ -231,14 +326,14 @@ However, suggestions for the split can be informed by the prior choice for the R
 
 **Table 3a. Suggested split of existing Lake Mead storage**
 
-| **User**    | **Suggested initial volume**                                                                 |
-|-------------|----------------------------------------------------------------------------------------------|
-| Reclamation | Protection volume entered in Row 20. This level is shown as elevation 1,020 feet in Figure . |
-| California  | Water Conservation (ICS) account balance shown in Figure (rollover).                         |
-| Arizona     | Water Conservation (ICS) account balance shown in Figure (rollover).                         |
-| Nevada      | Water Conservation (ICS) account balance shown in Figure (rollover).                         |
-| Mexico      |                                                                                              |
-| Other users | Remaining water in the Public Pool shown in Figure .                                         |
+| **User**    | **Suggested initial volume**                                                                             |
+|-------------|----------------------------------------------------------------------------------------------------------|
+| Reclamation | Protection volume entered in Row 20. This level is shown as elevation 1,020 feet in Figure 1a.           |
+| California  | Water Conservation (ICS) account balance shown in Figure 1b (rollover).                                  |
+| Arizona     | Water Conservation (ICS) account balance shown in Figure 1b (rollover).                                  |
+| Nevada      | Water Conservation (ICS) account balance shown in Figure 1b (rollover).                                  |
+| Mexico      | Water Conservation account balance under Minutes 323 to the U.S.-Mexico Treaty (IBWC, 2021; USBR, 2019). |
+| Other users | Remaining water in the Public Pool shown in Figure 1a.                                                   |
 
 If the Lake Mead active storage minus the Water Conservation Account balances:
 
@@ -249,9 +344,11 @@ In actuality, the participants will negotiate over a share of the existing reser
 
 ## 3B. Calculate Mead Evaporation
 
-Reservoir evaporation volume is the product of (i) annual evaporation rate (see Row 18), and the lake surface area associated with the current reservoir volume. Find the Elevation-Storage-Area relationship on the *Mead-Elevation-Area* worksheets (far right). Data were download from the Colorado River Simulation System (CRSS) model
+Reservoir evaporation volume is the product of (i) annual evaporation rate (see Row 18), and the lake surface area associated with the current reservoir volume. Find the Elevation-Storage-Area relationship on the *Mead-Elevation-Area* worksheets (far right). Data were download from the Colorado River Simulation System (CRSS) model (Wheeler et al., 2019; Zagona et al., 2001).
 
 The total reservoir evaporation is divided among water users in proportion to their account balance (Equation 1, evaporation terms in maf per year, balance and storage terms in maf).
+
+![](media/b0f6fb8c83d308f61784c4ce08a64809.png)
 
 For example, if Lake Mead active storage is 7.2 maf and Lake Mead evaporation is 0.4 maf for the year, and:
 
@@ -270,17 +367,21 @@ As a default, we use percentages shown in grey highlighted Row 5 of Table 4a.
 
 **Table 4a. Splits of reservoir inflow based on 2024 Lower Basin Shortage Agreement with Tribal Nations included.**
 
+![](media/b53c9ee9aeae742eec9132282c8b5bf3.emf)
+
 We derived these values as follows.
 
-1.  At full allocation (zero shortage; Row 1 of Table 4a), we first give 0.95 million acre-feet per year to Tribal Nations of the Lower Basin (Table 4a, Row [1] Column [G]; callout pie section in Figure 4a). This volume corresponds to their settled water rights enumerated in Reclamation’s Tribal Water Study
+1.  At full allocation (zero shortage; Row 1 of Table 4a), we first give 0.95 million acre-feet per year to Tribal Nations of the Lower Basin (Table 4a, Row [1] Column [G]; callout pie section in Figure 4a). This volume corresponds to their settled water rights enumerated in Reclamation’s Tribal Water Study (Ten Tribes Partnership, 2018).
 2.  We deduct volumes from the three other Lower Basin states based on the locations of the Tribal water users (Remainder of Figure 4a; Table 4a, Row 1, Columns [C] to [G]).
-3.  Next, we draw on percentage shares of total shortage specified in the recent Lower Basin Alternative This proposal allocated user reductions as a percentage of the total mandatory reduction (Table 4b). Note, percent shares of shortages to Nevada and Mexico remain constant across Total Shortage Volumes.
+3.  Next, we draw on percentage shares of total shortage specified in the recent Lower Basin Alternative (Buschatzke et al., 2024)(Table 4b). This proposal allocated user reductions as a percentage of the total mandatory reduction (Table 4b). Note, percent shares of shortages to Nevada and Mexico remain constant across Total Shortage Volumes.
 4.  To simplify, we select volume/percent shortages associated with 1.5 maf of total shortage (Table 4b, Rows [3] and [8]) .
 5.  We calculate Lake Mead Inflow (Table 4a, Column [B]) by subtracting the Total Shortage Volume (Table 4a Column [A]) shortage volume from the full allocation of 9.0 maf.
 6.  Similarly, we calculate each user’s volume share of the inflow (Columns [C] to [G]) as their allocation at 9.0 maf of inflow (Row [1]) minus the Total Shortage (Column [A]) multiplied by the user’s agreed-upon share of the shortage (from Step 4).
-7.  Finally, we calculate each users percentage share of the inflow as their volume (Table 4a, Columns [H] to [L]) by the total available water (Column [B]).
+7.  **![A pie chart with numbers and a number of states AI-generated content may be incorrect.](media/d31a9ef1b56395ad7ea6fcf1bc445251.png)** Finally, we calculate each users percentage share of the inflow as their volume (Table 4a, Columns [H] to [L]) by the total available water (Column [B]).
 
 **Figure 4a. Chart Detailing the Tribal Nations Share of Lake Mead Inflow.** The main portion of the pie chart represents the volume of water Arizona, Nevada, and California will receive during a full inflow year to Lake Mead.
+
+![A table with numbers and text AI-generated content may be incorrect.](media/b3169f8149953fe0f050119c8d83c24c.png)**Table 4b. Prior agreed Lower Basin shortages and shares of shortages (Buschatzke et al., 2024).**
 
 **Here are some example calculations that include the Tribal Nations in the share of Lake Mead inflow allocation (Table 4a):**
 
@@ -322,9 +423,11 @@ Mexico’s share [F] = 1.5 – 0.167 \* 2.7 = 1.05 maf.
 
 **Table 4c. Share of Lake Mead inflow by volume and percentage excluding Tribal Nations.**
 
+**![A table with numbers and a number of text AI-generated content may be incorrect.](media/116ba55f46390816a36f1a492b850e04.png)**
+
 # Step 5. Participant Dashboards – Conserve, Consume, and Trade
 
-Each participant has a dashboard where they can trade, conserve, and consume their available water (Figure 5a).
+![A screenshot of a spreadsheet AI-generated content may be incorrect.](media/3819f96bfa2cca4442f242ba113b4a59.png)Each participant has a dashboard where they can trade, conserve, and consume their available water (Figure 5a).
 
 **Figure 5a. Reclamation Protect Dashboard annotated. Starting storage is 1,055 feet (8.0 maf), the reservoir protect elevation is 1,005 feet (4.8 maf), and there is 8.0 maf inflow this year. There is 0.44 maf total evaporation for the year, of which Reclamation’s share is 0.26 maf. Thus, Reclamation has 4.8 maf of water available. No trades or withdraws have been entered. So the ending balance is also 4.8 maf.**
 
@@ -334,15 +437,17 @@ Enter buy amounts as positive (+) and sell amounts negative (-). These are addit
 
 **These transactions are all temporary – for one year!**
 
-When a buying account requires a selling account to invest financial proceeds in new farm or urban water conservation efforts, the money stays in the local community and the seller can make more water available in future years
+When a buying account requires a selling account to invest financial proceeds in new farm or urban water conservation efforts, the money stays in the local community and the seller can make more water available in future years (Rosenberg, 2021).
 
 ### (ii) Pricing
 
 Enter the price in \$ per acre-foot – if buying, enter as a negative (-) and if selling, enter as a positive (+).
 
-Table 5a shows water prices and compensation for recent voluntary, compensated, and mandatory Colorado River Basin water conservation programs The program has conserved more water than other voluntary, compensated, or mandatory Colorado River Basin water conservation program and is less expense than other options such as desalination
+Table 5a shows water prices and compensation for recent voluntary, compensated, and mandatory Colorado River Basin water conservation programs (Allhands, 2021; UCRC, 2018; UCRC, 2024; USBR, 2021a; USBR, 2021c). The program has conserved more water than other voluntary, compensated, or mandatory Colorado River Basin water conservation program and is less expense than other options such as desalination (Table 5a; Allhands, 2021; James, 2021; UCRC, 2018; UCRC, 2024; USBR, 2021a; USBR, 2021c)
 
 **Table 5a. Colorado River Basin water conservation programs and accomplishments.**
+
+**![A table with numbers and a number of items AI-generated content may be incorrect.](media/adcd5cc5bbcdece7812c013e317f3785.png)**
 
 ### (iii) Compensation
 
@@ -360,8 +465,8 @@ Confirm the net trade volume for all participants is zero. A zero balance indica
 
 Available water is the water available to a participant to consume, conserve, or sell to another user. Sales decrease and purchases increase available water (Eq. 2).
 
-|   | (Eq. 2) |
-|---|---------|
+| ![](media/b067b34f64dc5f62cef840cc605c1345.png) | (Eq. 2) |
+|-------------------------------------------------|---------|
 
 ### (vi) Enter Withdraw within Available Water
 
@@ -371,9 +476,15 @@ Enter withdraws and consumptive use according to the strategy identified in Step
 
 Check that other collaborators do not withdraw more water than is available to them!
 
+For reference, recent withdrawals are shown in Table 5b (USBR, 2026a). These withdrawals include to Tribal Nations within each state . Tribal Nations of the Lower Basin have recently consumed about 460,000 of their 0.95 million acre-feet of settled water rights (Table 5c)(Ten Tribes Partnership, 2018).
+
 **Table 5b. Recent Lower Basin and Mexico user withdrawals (million acre-feet).**
 
+![](media/9588bc91880c0cef07e450dcd1f67558.png)
+
 **Table 5c. Diversion and consumptive use by Tribal Nations of the Lower Basin (acre-feet).**
+
+![A table with numbers and text Description automatically generated](media/d72f1e9d8c332c564c4f3413ef9519a8.png)
 
 ### (vii) End of Year Balance
 
@@ -391,7 +502,7 @@ The Lake Mead storage at the end of the year after all account withdraws and con
 
 Move to next year. Move to Step 2 Specify Lake Mead inflow in the next year (next column). Repeat Steps 2 to 7 for each year.
 
-The purpose of this modeling activity is to provoke thought and discussion about new Lake Mead operations. to play years so long as the discussion provokes new insights.
+The purpose of this modeling activity is to provoke thought and discussion about new Lake Mead operations. Continue to play years so long as the discussion provokes new insights.
 
 # Step 8. Finish
 
@@ -403,31 +514,105 @@ The data, code, and directions to generate figures in this post are available on
 
 # Requested Citation
 
-Rosenberg (2026). Lake Mead on the Principle of Divide Reservoir Inflow
+Rosenberg et al. (2026). "Immersive Model for Lake Mead Based on the Principle of Divide Reservoir Inflow"
 
 Utah State University, Logan, UT.
+
+<https://github.com/ImmersiveModelsColoradoRiver/LakeMeadDivideInflow/blob/main/ModelGuide/ModelGuide-LakeMeadWaterBank.md>
 
 # Appendix 1. Summary of Current Colorado River Operations
 
 The Colorado River basin has a long history. The parties do not get along. There is much written material. This appendix summarizes key pieces and provides links to the actual documents:
 
-1.  
-2.  
-3.  **Compacts, treaties, and agreements** in 1922, 1928, 1944, 1956, 1964, and 1968 -- .
-3.  **2007 Interim Guidelines**. Lower Basin states increase mandatory conservation as Lake Mead level falls from 1,075 to 1,025 feet; Intentionally created surplus (aka conservation) accounts in Lake Mead for Lower Basin states (Section 3); Equalize storage in Lake Powell and Lake Mead (Section 6). .
-4.  **2012 and 2017. Minutes 319 and 323 to the 1944 US-Mexico Treaty**. Mexico increases mandatory conservation as Lake Mead’s level falls from 1,090 to 1,025 feet. .
+1.  [**Map**](https://www.usbr.gov/lc/images/maps/CRBSmap.jpg) shows Upper Basin, Lower Basin, Glen Canyon Dam/Lake Powell, Hoover Dam/Lake Mead, and diversions inside and outside the hydrologic basin (USBR, 2012).
+2.  **Compacts, treaties, and agreements** in 1922, 1928, 1944, 1956, 1964, and 1968 -- <https://www.usbr.gov/lc/region/g1000/lawofrvr.html>.
+3.  **2007 Interim Guidelines**. Lower Basin states increase mandatory conservation as Lake Mead level falls from 1,075 to 1,025 feet; Intentionally created surplus (aka conservation) accounts in Lake Mead for Lower Basin states (Section 3); Equalize storage in Lake Powell and Lake Mead (Section 6). <https://www.usbr.gov/lc/region/programs/strategies/RecordofDecision.pdf>.
+4.  **2012 and 2017. Minutes 319 and 323 to the 1944 US-Mexico Treaty**. Mexico increases mandatory conservation as Lake Mead’s level falls from 1,090 to 1,025 feet. <https://www.ibwc.gov/Treaties_Minutes/Minutes.html>.
 5.  **2018 Ten Tribes Partnership Water Study.** Quantified 2.0 million acre-feet (maf) rights in Upper and Lower Basins and 0.8 maf claims. https://www.usbr.gov/lc/region/programs/crbstudy/tws/finalreport.html.
 6.  **2019 Upper Basin Drought Contingency Plan.** Protect Lake Powell elevation of 3,525 feet (5.9 maf). Prevent Lake Powell to fall to minimum power pool elevation of 3,490 feet (4.0 maf). https://www.usbr.gov/dcp/finaldocs.html.
-7.  **2019 Lower Basin Drought Contingency Plan.** Increase mandatory conservation targets as Lake Mead’s level falls from 1,090 feet to 1,025 feet. .
-8.  
-9.  
-10. 
-11. 
-12. **2026.** **Interim Guidelines and Drought Contingency Plans expire.**
-13. 
-14. 
+7.  **2019 Lower Basin Drought Contingency Plan.** Increase mandatory conservation targets as Lake Mead’s level falls from 1,090 feet to 1,025 feet. See current mandatory conservation schedule in (Castle and Fleck, 2019). Protect Lake Mead from falling below elevation 1,020 feet. <https://www.usbr.gov/dcp/finaldocs.html>.
+8.  **2021 Lower Basin 500 Plus Plan.** The Lower Basin states and Federal government agree to pay \$200 million to conserve 0.5 maf each year for two years (Allhands, 2021).
+9.  **2023 to Present.** Process to plan for operations post 2026 when interim guidelines and drought contingency plans expire (USBR, 2023a; USBR, 2023b)**.**
+10. **2026.** **Interim Guidelines and Drought Contingency Plans expire.**
+11. **Castle and Fleck (2019)**:
     1.  Summarize current Colorado River operations in more detail than Items \#1-9.
     2.  Describe what happens when the Upper Basin is unable to deliver 8.23 million acre-feet (maf) of water per year to Lower Basin as required in the 1922 Compact and 1944 US-Mexico Treaty.
-12. give a well written history of Colorado River management. Read this piece for fun or to go in depth on a particular piece of management.
+12. **Kuhn and Fleck (2019)** give a well written history of Colorado River management. Read this piece for fun or to go in depth on a particular piece of management.
 
 # References
+
+ADWR. (2020). "Water Your Facts." Arizona Water Facts, Arizona Department of Water Resources, <https://arizonawaterfacts.com/water-your-facts> [Accessed on: August 26, 2026].
+
+Allhands, J. (2021). "It could take at least 500,000 acre-feet of water a year to keep Lake Mead from tanking." *Arizona Republic*, November 8, 2021. <https://www.azcentral.com/story/opinion/op-ed/joannaallhands/2021/11/08/lake-mead-could-get-extra-water-from-lower-basin-annually/6306601001/>.
+
+Buschatzke, T., Hamby, J. B., and Entsminger, J. (2024). "Lower Basin Alternative for the Post-2026 Coordinated Operation of the Colorado River Basin." <https://www.snwa.com/assets/pdf/lower-basin-alternative-letter-march2024.pdf> [Accessed on: August 14, 2024].
+
+Castle, A., and Fleck, J. (2019). "The Risk of Curtailment under the Colorado River Compact." *SSRN eLibrary*. <http://dx.doi.org/10.2139/ssrn.3483654>.
+
+CAP. (2025). "A Matter of Priorities." Know Your Water News, Central Arizona Project, <https://knowyourwaternews.com/a-matter-of-priorities/> [Accessed on: August 26, 2026].
+
+CEABC. (2023). "Programa Estatal Hídrico 2022-2027." Comisión Estatal del Agua de Baja California, Gobierno del Estado de Baja California, <http://www.cea.gob.mx/documents/Periodico-65-CXXX-2023-124-PEH.pdf> [Accessed on: August 26, 2026].
+
+Christian-Smith, J., & Gleick, P. H. (2010). "California Farm Water Success Stories." Pacific Institute, ResearchGate, https://www.researchgate.net/publication/242555216_California_Farm_Water_Success_Stories [Accessed on: August 26, 2026].
+
+Colorado River Compact. (1922). <https://www.usbr.gov/lc/region/pao/pdfiles/crcompct.pdf> [Accessed on: October 5, 2021].
+
+CVWD. (2026). "Where Does My Water Come From?" Coachella Valley Water District, <https://www.cvwd.org/154/Where-does-my-water-come-from> [Accessed on: August 26, 2026].
+
+IBWC. (2021). "Minutes between the United States and Mexican Sections of the IBWC." United States Section, <https://www.ibwc.gov/Treaties_Minutes/Minutes.html> [Accessed on: July 22, 2021].
+
+IID. (2026). "Water." Imperial Irrigation District, <https://www.iid.com/water> [Accessed on: August 26, 2026].
+
+IMTA. (2020). "El agua en el Valle de Mexicali." Instituto Mexicano de Tecnología del Agua, <https://www.imta.gob.mx/gobmx/2020/EL_AGUA_VALLE_MEXICALI.pdf> [Accessed on: August 27, 2026].
+
+James, I. (2021). "Southwest braces for water cutbacks as drought deepens along the Colorado River." *Arizona Republic*. <https://www.azcentral.com/story/news/local/arizona-environment/2021/04/06/colorado-river-drought-deepens-arizona-prepares-water-cutbacks/4808587001/>.
+
+Kuhn, E., and Fleck, J. (2019). *Science Be Dammed: How Ignoring Inconvenient Science Drained the Colorado River*, University of Arizona Press.
+
+Moreo, M. T. (2015). "Evaporation data from Lake Mead and Lake Mohave, Nevada and Arizona, March 2010 through April 2015." U.S. Geological Survey Data Release. <http://dx.doi.org/10.5066/F79C6VG3>.
+
+MWD. (2026). "Securing Our Imported Supplies." Metropolitan Water District of Southern California, <https://www.mwdh2o.com/securing-our-imported-supplies/> [Accessed on: August 26, 2026].
+
+PVID. (2026). "Palo Verde Irrigation District History." Palo Verde Irrigation District, <https://pvid.org/history.php> [Accessed on: August 26, 2026].
+
+Rosenberg, D. E. (2021). "Invest in Farm Water Conservation to Curtail Buy and Dry." *Submitted to Journal of Water Resources Planning and Management*, 3. <https://digitalcommons.usu.edu/water_pubs/169/>.
+
+Salehabadi, H., Tarboton, D. G., Wheeler, K. G., Smith, R., and Baker, S. (2024). "Quantifying and Classifying Streamflow Ensembles Using a Broad Range of Metrics for an Evidence-Based Analysis: Colorado River Case Study." *Water Resources Research*, 60(7), e2024WR037225. <https://doi.org/10.1029/2024WR037225>.
+
+Schmidt, J. C., Kraft, M., Tuzlak, D., and Walker, A. (2016). "Fill Mead First: a technical assessment." Utah State University, Logan, Utah. <https://qcnr.usu.edu/wats/colorado_river_studies/files/documents/Fill_Mead_First_Analysis.pdf>.
+
+SNWA. (2026a). "Water Resource Plan." Southern Nevada Water Authority, <https://www.snwa.com/universal/pdfjs/?file=%2Fassets%2Fpdf%2Fwater-resource-plan-2026.pdf&lang=en> [Accessed on: August 26, 2026].
+
+SNWA. (2026b). "Where Your Water Comes From." Southern Nevada Water Authority, <https://www.snwa.com/water-resources/where-water-comes-from/index.html> [Accessed on: August 26, 2026].
+
+Ten Tribes Partnership. (2018). "Colorado River Basin Ten Tribes Partnership Tribal Water Study." U.S. Department of the Interior, Bureau of Reclamation, Ten Tribes Partnership. <https://www.usbr.gov/lc/region/programs/crbstudy/tws/finalreport.html>.
+
+UCRC. (2018). "Colorado River System Conservation Pilot Program in the Upper Colorado River Basin." *Upper Colorado River Commission*. <http://www.ucrcommission.com/RepDoc/SCPPDocuments/2018__SCPP_FUBRD.pdf>.
+
+UCRC. (2024). "Colorado River System Conservation Pilot Program in the Upper Colorado River Basin." *Upper Colorado River Commission*. <http://www.ucrcommission.com/wp-content/uploads/2024/06/2023_SCPP_Report_June2024.pdf>.
+
+USBR. (2012). "Colorado River Basin Water Supply and Demand Study." U.S. Department of Interior, Bureau of Reclamation, Washington, D.C., <https://www.usbr.gov/lc/region/programs/crbstudy.html>.
+
+USBR. (2019). "Agreement Concerning Colorado River Drought Contingency Management and Operations." U.S. Bureau of Reclamation, Washington, DC. <https://www.usbr.gov/ColoradoRiverBasin/dcp/index.html>.
+
+USBR. (2020). "Review of the Colorado River Interim Guidelines for Lower Basin Shortages and Coordinated Operations for Lake Powell and Lake Mead." U.S. Bureau of Reclamation, U.S. Department of Interior. <https://www.usbr.gov/ColoradoRiverBasin/documents/7.D.Review_FinalReport_12-18-2020.pdf>.
+
+USBR. (2021a). "Boulder Canyon Operations Office - Program and Activities: Water Accounting Reports." U.S. Bureau of Reclamation. <https://www.usbr.gov/lc/region/g4000/wtracct.html>.
+
+USBR. (2021b). "Lake Mead at Hoover Dam, End of Month Elevation." Lower Colorado River Operations, U.S. Buruea of Reclamation, <https://www.usbr.gov/lc/region/g4000/hourly/mead-elv.html> [Accessed on: October 5, 2021].
+
+USBR. (2021c). "Pilot System Conservation Program." U.S. Bureau of Reclamation, <https://www.usbr.gov/lc/region/programs/PilotSysConsProg/pilotsystem.html> [Accessed on: October 14, 2021].
+
+USBR. (2023a). "Integrated Technical Education Workgroup." U.S. Bureau of Reclamation, <https://www.usbr.gov/ColoradoRiverBasin/post2026/itew.html> [Accessed on: September 18, 2023].
+
+USBR. (2023b). "Post-2026 Colorado River Reservoir Operational Strategies for Lake Powell and Lake Mead: Summary of the Federal Register Notice Input Received." Reclamation, <https://www.usbr.gov/ColoradoRiverBasin/Post2026Ops.html> [Accessed on: September 20, 2022].
+
+USBR. (2026a). "Boulder Canyon Operations Office - Program and Activities: Water Accounting Reports." U.S. Bureau of Reclamation. <https://www.usbr.gov/lc/region/g4000/wtracct.html>.
+
+USBR. (2026b). "Final Environmental Impact Statement." Colorado River Basin, U.S. Bureau of Reclamation, <https://www.usbr.gov/ColoradoRiverBasin/post2026/decision-doc/index.html> [Accessed on: August 26, 2026].
+
+USGS. (2016). "Colorado River Basin map." U.S. Geological Survey. <https://www.usgs.gov/media/images/colorado-river-basin-map>.
+
+Wheeler, K. G., Schmidt, J. C., and Rosenberg, D. E. (2019). "Water Resource Modelling of the Colorado River – Present and Future Strategies." Center for Colorado River Studies, Utah State University, Logan, Utah. <https://qcnr.usu.edu/coloradoriver/files/news/White-Paper-2.pdf>.
+
+Zagona, E. A., Fulp, T. J., Shane, R., Magee, T., and Goranflo, H. M. (2001). "Riverware: A Generalized Tool for Complex Reservoir System Modeling." *JAWRA Journal of the American Water Resources Association*, 37(4), 913-929. <https://doi.org/10.1111/j.1752-1688.2001.tb05522.x>.
