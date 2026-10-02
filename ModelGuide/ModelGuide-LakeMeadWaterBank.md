@@ -286,9 +286,11 @@ Tables 1g and 1h and the associated calculations are also shown in the **TribalW
 Each Lake Mead inflow for the year will be specified by the person guiding the model session at the beginning of each timestep (Figure 2a and Table 2a). These choices will ensure an accurate representation of uncertainty, unreliability, and variability in flow for Colorado River Basin management. Because Lake Mead inflow is uncertain—and likely differing from historical inflows because of aridity—we can only specify inflow as a scenario (Rosenberg, 2022). We are particularly interested in scenarios of extreme low inflow to Lake Mead because if we can manage for extreme conditions, then we can also manage for less extreme conditions.
 
 <img width="975" height="590" alt="image" src="https://github.com/user-attachments/assets/9cae50e0-1906-40d4-908c-18be409cd654" />
+
 **Figure 2a. Reclamation scenarios of future natural flow to Lake Powell (red) and 24‑month study 10th and 50th percentile projections (blue).**
 
 **![A white sheet with black text AI-generated content may be incorrect.](media/e4fc71eb5784605c5cf05b65ac1df925.png)**
+
 **Table 2a. Scenarios of Lake Mead Inflow**
 
 There are two ways to interpret the extreme scenarios of inflow to Lake Mead:
