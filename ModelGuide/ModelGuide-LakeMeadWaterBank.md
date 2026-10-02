@@ -285,11 +285,11 @@ Tables 1g and 1h and the associated calculations are also shown in the **TribalW
 
 Each Lake Mead inflow for the year will be specified by the person guiding the model session at the beginning of each timestep (Figure 2a and Table 2a). These choices will ensure an accurate representation of uncertainty, unreliability, and variability in flow for Colorado River Basin management. Because Lake Mead inflow is uncertain—and likely differing from historical inflows because of aridity—we can only specify inflow as a scenario (Rosenberg, 2022). We are particularly interested in scenarios of extreme low inflow to Lake Mead because if we can manage for extreme conditions, then we can also manage for less extreme conditions.
 
-**![A graph of different colored lines AI-generated content may be incorrect.](media/fd507a8f9aa639b557948cbf5f4504b2.png)**
-
+<img width="975" height="590" alt="image" src="https://github.com/user-attachments/assets/9cae50e0-1906-40d4-908c-18be409cd654" />
 **Figure 2a. Reclamation scenarios of future natural flow to Lake Powell (red) and 24‑month study 10th and 50th percentile projections (blue).**
 
-**Table 2a. Scenarios of Lake Mea**![A white sheet with black text AI-generated content may be incorrect.](media/e4fc71eb5784605c5cf05b65ac1df925.png)**d Inflow**
+**![A white sheet with black text AI-generated content may be incorrect.](media/e4fc71eb5784605c5cf05b65ac1df925.png)**
+**Table 2a. Scenarios of Lake Mead Inflow**
 
 There are two ways to interpret the extreme scenarios of inflow to Lake Mead:
 
@@ -434,7 +434,8 @@ Mexico’s share [F] = 1.5 – 0.167 \* 2.7 = 1.05 maf.
 
 # Step 5. Participant Dashboards – Conserve, Consume, and Trade
 
-![A screenshot of a spreadsheet AI-generated content may be incorrect.](media/3819f96bfa2cca4442f242ba113b4a59.png)Each participant has a dashboard where they can trade, conserve, and consume their available water (Figure 5a).
+<img width="1837" height="705" alt="image" src="https://github.com/user-attachments/assets/a82f3079-4fc2-4f3f-93e0-a0f8b78aebfe" />
+Each participant has a dashboard where they can trade, conserve, and consume their available water (Figure 5a).
 
 **Figure 5a. Reclamation Protect Dashboard annotated. Starting storage is 1,055 feet (8.0 maf), the reservoir protect elevation is 1,005 feet (4.8 maf), and there is 8.0 maf inflow this year. There is 0.44 maf total evaporation for the year, of which Reclamation’s share is 0.26 maf. Thus, Reclamation has 4.8 maf of water available. No trades or withdraws have been entered. So the ending balance is also 4.8 maf.**
 
