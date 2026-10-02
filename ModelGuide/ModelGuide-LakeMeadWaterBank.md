@@ -487,7 +487,7 @@ For reference, recent withdrawals are shown in Table 5b (USBR, 2026a). These wit
 
 **Table 5b. Recent Lower Basin and Mexico user withdrawals (million acre-feet).**
 
-![](media/9588bc91880c0cef07e450dcd1f67558.png)
+<img width="399" height="273" alt="image" src="https://github.com/user-attachments/assets/4e78b5dd-6fb7-4b84-99e0-73788b0996ce" />
 
 **Table 5c. Diversion and consumptive use by Tribal Nations of the Lower Basin (acre-feet).**
 
